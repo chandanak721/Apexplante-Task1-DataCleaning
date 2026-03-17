@@ -1,0 +1,9 @@
+Order_ID,Order_Date,Customer_Name,Category,Sales,Profit,Quantity,Region,Year,Month
+1001,1/2/2024,Ravi,furniture,2000,200,2,East,2024,1
+1003,1/7/2024,John,technology,1500,300,1,East,2024,1
+1004,1/7/2024,Sara,office,800,120,4,South,2024,1
+1005,2/10/2024,Mike,technology,2300,400,2,North,2024,2
+1006,2/15/2024,Anita,office,1200,180,2,West,2024,2
+1007,3/1/2024,Ravi,furniture,1700,250,3,East,2024,3
+1008,3/3/2024,Tom,office,900,100,2,North,2024,3
+1009,,Alex,technology,1600,260,1,East,,
